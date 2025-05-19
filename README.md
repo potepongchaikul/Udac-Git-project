@@ -7,7 +7,7 @@ Pote Pongchaikul
 Date created: Monday 19 May 2025
 
 ### Description
-This repository is created as part of the final project in _Introduction to Version Control_ course
+This repository is created as part of the final project in _Introduction to Version Control_ course. The aim is to host commits made in a simulated work environment where there are two or more people doing different tasks in different branches.
 
 ### Files used
 - `bikeshare.py`
