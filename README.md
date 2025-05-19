@@ -1,3 +1,6 @@
+### Author
+Pote Pongchaikul
+
 ### Date created
 Date created: Monday 19 May 2025
 
