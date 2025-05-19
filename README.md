@@ -1,11 +1,10 @@
+# Github repository for _Introduction to Version Control_ course
+
 ### Author
 Pote Pongchaikul
 
 ### Date created
 Date created: Monday 19 May 2025
-
-### Project Title
-Github repository for _Introduction to Version Control_ course
 
 ### Description
 This repository is created as part of the final project in _Introduction to Version Control_ course
