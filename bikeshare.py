@@ -100,9 +100,6 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
-    print('\nCalculating The Most Popular Times of Travel...\n')
-    start_time = time.time()
-
     # Convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
 
@@ -139,9 +136,6 @@ def time_stats(df):
         if popular_hour > 12:
             popular_hour -= 12
         print('Most Common Start Hour: \n', popular_hour, ' PM')
-
-    print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
