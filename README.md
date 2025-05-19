@@ -1,17 +1,20 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+Date created: Monday 19 May 2025
 
 ### Project Title
-Replace the Project Title
+Github repository for _Introduction to Version Control_ course
 
 ### Description
-Describe what your project is about and what it does
+This repository is created as part of the final project in _Introduction to Version Control_ course
 
 ### Files used
-Include the files used
+- `bikeshare.py`
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+References/sources used for this project:
+
+- The previously unavailable `bikeshare.py`, alongside data files such as `chicago.csv` and `washington.csv` were downloaded from [this repo](https://github.com/patrickbloomingdale/Udacity-Project-Explore-US-Bikeshare-Data/blob/master/bikeshare.py) for use in this project.
+- Information on how to move `chicago.csv` and `washington.csv` to `.gitignore` was taken from this [Stackoverflow post](https://stackoverflow.com/questions/46383506/add-files-to-gitignore-directly-from-git-shell).
 
